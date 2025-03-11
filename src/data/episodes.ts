@@ -15,12 +15,12 @@ export const episodes: Episode[] = [
     id: "1",
     title: "The Mona Lisa: Beyond the Smile",
     description: "Discover the secrets and history behind Leonardo da Vinci's masterpiece. We explore the techniques used, the subject's identity, and why this painting has captivated viewers for centuries.",
-    imagePath: "/episodes/mona-lisa.jpg",
-    audioPath: "/episodes/mona-lisa.mp3",
-    duration: "35:42",
+    imagePath: "../../episodes/mona-lisa.jpg",
+    audioPath: "../../episodes/mona-lisa.mp3",
+    duration: "03:32",
     date: "2023-06-15",
     featured: true
-  },
+  }/*,
   {
     id: "2",
     title: "Venus de Milo: Beauty in Fragments",
@@ -103,5 +103,5 @@ export const episodes: Episode[] = [
     audioPath: "/episodes/hidden-gems.mp3",
     duration: "39:56",
     date: "2023-08-17"
-  }
+  }*/
 ];
