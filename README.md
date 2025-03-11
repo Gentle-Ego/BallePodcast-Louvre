@@ -14,10 +14,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Gentle-Ego/louvre-podcast-explorer.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd louvre-podcast-explorer
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -28,12 +28,14 @@ npm run dev
 
 **Edit a file directly in GitHub**
 
+- Create a fork of this repository (if you don't know how, check this [LINK](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo))
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
 - Make your changes and commit the changes.
 
 **Use GitHub Codespaces**
 
+- Create a fork of this repository (if you don't know how, check this [LINK](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo))
 - Navigate to the main page of your repository.
 - Click on the "Code" button (green button) near the top right.
 - Select the "Codespaces" tab.
@@ -49,3 +51,4 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
+- Bugs, because yes, they are alwyas there hding...
