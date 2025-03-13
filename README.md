@@ -14,7 +14,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/Gentle-Ego/louvre-podcast-explorer.git
+git clone https://github.com/Gentle-Ego/BallePodcast-Louvre.git
 
 # Step 2: Navigate to the project directory.
 cd louvre-podcast-explorer
