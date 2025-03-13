@@ -17,7 +17,7 @@ Follow these steps:
 git clone https://github.com/Gentle-Ego/BallePodcast-Louvre.git
 
 # Step 2: Navigate to the project directory.
-cd louvre-podcast-explorer
+cd BallePodcast-Louvre
 
 # Step 3: Install the necessary dependencies.
 npm i
