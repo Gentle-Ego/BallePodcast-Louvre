@@ -105,8 +105,8 @@ export const episodes: Episode[] = [
     id: "10",
     title: "Campo di Papaveri",
     description: "Il \"Campo di Papaveri\" (1873) di Claude Monet è un capolavoro dell’Impressionismo che cattura la luce e il movimento della natura. Il dipinto raffigura un vasto prato punteggiato di papaveri rossi, attraversato da figure femminili evanescenti, probabilmente la moglie e il figlio dell’artista. Con pennellate leggere e colori vibranti, Monet trasmette l’impressione fugace di un momento, esaltando la bellezza dell’istante attraverso la luce e il colore.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/papaveri.jpg",
+    audioPath: "../../episodes/papaveri.mp4",
     duration: "02:30",
     date: "2025-03-30",
     featured: false
@@ -115,8 +115,8 @@ export const episodes: Episode[] = [
     id: "11",
     title: "Battaglia di San Romano",
     description: "Il dipinto Battaglia di San Romano di Paolo Uccello, realizzato intorno al 1435, è un celebre esempio di arte rinascimentale. Rappresenta uno degli scontri tra le truppe fiorentine e quelle senesi durante la guerra tra le due città. La particolarità dell’opera è l’innovativa rappresentazione prospettica e l’uso dinamico delle forme, che contribuiscono a rendere la scena di battaglia estremamente vivace e realistica. La composizione si distingue per l’accuratezza nei dettagli, come le armature e gli armamenti, e per il contrasto tra movimento e staticità, che conferisce una sensazione di tensione e drammaticità.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/battaglia.jpg",
+    audioPath: "../../episodes/battaglia.mp4",
     duration: "01:25",
     date: "2025-03-30",
     featured: false
@@ -125,8 +125,8 @@ export const episodes: Episode[] = [
     id: "12",
     title: "La Merlettaia",
     description: "La Merlettaia di Vermeer ritrae una giovane donna intenta a lavorare con estrema concentrazione. La scena, intima e luminosa, esalta la delicatezza dei gesti e dei materiali, simboleggiando la pazienza e la dedizione. I dettagli raffinati e i colori caldi trasmettono un senso di quiete e armonia.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/merlettaia.jpg",
+    audioPath: "../../episodes/merlettaia.mp4",
     duration: "05:26",
     date: "2025-03-30",
     featured: false
