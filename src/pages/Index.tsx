@@ -60,7 +60,7 @@ const Index: React.FC = () => {
           <>
             {featuredEpisodes.length > 0 && (
               <div className="mb-10">
-                <h2 className="font-serif text-2xl md:text-3xl font-bold mb-6">Featured Episodes</h2>
+                <h2 className="font-serif text-2xl md:text-3xl font-bold mb-6">Featured Episode</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   {featuredEpisodes.map(episode => (
                     <EpisodeCard key={episode.id} episode={episode} featured={true} />
