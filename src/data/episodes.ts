@@ -19,7 +19,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/incoronazione-napoleone.mp4",
     duration: "02:40",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "2",
@@ -29,7 +29,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/bal-du.mp4",
     duration: "04:11",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "3",
@@ -39,7 +39,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/altalena.m4a",
     duration: "02:27",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "4",
@@ -49,7 +49,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/giuramento-orazi.m4a",
     duration: "03:54",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "5",
@@ -59,7 +59,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/circo.mp4",
     duration: "04:00",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "6",
@@ -69,7 +69,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/liberta.mp4",
     duration: "05:32",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "7",
@@ -79,7 +79,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/nozze.mp4",
     duration: "03:29",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "8",
@@ -89,7 +89,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/balcone.mp4",
     duration: "02:01",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "9",
@@ -109,7 +109,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "02:30",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "11",
@@ -119,7 +119,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "01:25",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "12",
@@ -129,7 +129,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "05:26",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "13",
@@ -139,7 +139,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "02:29",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "14",
@@ -149,7 +149,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "04:05",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "15",
@@ -159,7 +159,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "03:27",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "16",
@@ -169,7 +169,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "03:11",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "17",
@@ -179,7 +179,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "02:25",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   {
     id: "18",
@@ -189,7 +189,7 @@ export const episodes: Episode[] = [
     audioPath: "../../episodes/mona-lisa.mp3",
     duration: "03:20",
     date: "2025-03-30",
-    featured: true
+    featured: false
   },
   
 ];
