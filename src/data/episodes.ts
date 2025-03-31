@@ -185,8 +185,8 @@ export const episodes: Episode[] = [
     id: "18",
     title: "La Morte di Sardanapalo",
     description: "La Morte di Sardanapalo è un dipinto del 1827 del pittore romantico Eugène Delacroix. Raffigura l'ultimo momento del leggendario re assiro Sardanapalo, che ordina la distruzione di tutti i suoi beni, concubine e animali prima di togliersi la vita per non cadere nelle mani dei nemici. L'opera è caratterizzata da un uso drammatico del colore, una composizione caotica e un senso di violenza e passione tipico del Romanticismo.",
-    imagePath: "../../episodes/sardanapalo.jpg",
-    audioPath: "../../episodes/sardanapalo.m4a",
+    imagePath: "../../episodes/sardanapaolo.jpg",
+    audioPath: "../../episodes/sardanapaolo.m4a",
     duration: "03:20",
     date: "2025-03-30",
     featured: false
