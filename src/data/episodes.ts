@@ -290,5 +290,25 @@ export const episodes: Episode[] = [
     duration: "01:46",
     date: "2025-03-30",
     featured: false
+  },
+  {
+    id: "29",
+    title: "Amore e Psiche",
+    description: "\"Amore e Psiche\" è un gruppo scultoreo di Antonio Canova, uno dei più grandi artisti del neoclassicismo europeo. L'opera trae origine da un mito greco, intitolato \"L'asino d'oro\"; l'episodio della favola rappresentato, è quello in cui Amore rianima Psiche, una fanciulla di irresistibile fascino che, contravvenendo agli ordini, aveva aperto un vaso ricevuto negli Inferi da Proserpina, destinato alla dea Venere, cadendo così in un sonno profondo.",
+    imagePath: "../../episodes/psiche.jpg",
+    audioPath: "../../episodes/psiche.mp4",
+    duration: "01:42",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "30",
+    title: "Notte stellata sul Rodano",
+    description: "\"Notte stellata sul Rodano\" è un dipinto  realizzato da Vincent van Gogh nel 1888; l’opera raffigura un paesaggio notturno, in cui il fiume Rodano scorre calmo sotto ad un cielo profondo e scuro, illuminato da una costellazione di stelle brillanti, così come dalle luci della città, creando un atmosfera in cui la natura si fonde con la luce artificiale, e dunque con la presenza umana.",
+    imagePath: "../../episodes/notte.jpg",
+    audioPath: "../../episodes/notte.mp4",
+    duration: "03:06",
+    date: "2025-03-30",
+    featured: false
   }
 ];
