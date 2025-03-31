@@ -241,4 +241,54 @@ export const episodes: Episode[] = [
     date: "2025-03-30",
     featured: false
   },
+  {
+    id: "24",
+    title: "La Zattera della Medusa",
+    description: "La Zattera della Medusa (Géricault, Louvre): Un drammatico capolavoro romantico che raffigura i sopravvissuti di un naufragio alla deriva, in bilico tra disperazione e speranza. L'uso magistrale di luce, movimento e anatomia enfatizza la tragedia umana e la tensione emotiva.",
+    imagePath: "../../episodes/zattera.jpg",
+    audioPath: "../../episodes/zattera.mp4",
+    duration: "01:49",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "25",
+    title: "Il Ponte di Argenteuil",
+    description: "Il Ponte di Argenteuil (Monet): Un'opera impressionista che cattura la luce e i riflessi dell'acqua sotto un ponte sulla Senna. I colori vivaci e le pennellate rapide trasmettono la bellezza fugace della natura e l'atmosfera serena del paesaggio.",
+    imagePath: "../../episodes/ponte.jpg",
+    audioPath: "../../episodes/ponte.mp4",
+    duration: "01:22",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "26",
+    title: "La Madonna del Cancelliere Rolin",
+    description: "La Madonna del Cancelliere Rolin è un dipinto olio su tavola (66x62 cm) di Jan van Eyck, databile al 1435 circa e conservata nel Museo del Louvre a Parigi.",
+    imagePath: "../../episodes/cancelliere.jpg",
+    audioPath: "../../episodes/cancelliere.mp4",
+    duration: "05:07",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "27",
+    title: "La camera di Vincent ad Arles",
+    description: "La camera di Vincent ad Arles è il nome di tre dipinti del pittore olandese Vincent van Gogh, realizzati tra il 1888 ed il 1889 e conservati rispettivamente presso il Van Gogh Museum di Amsterdam, l'Art Institute of Chicago ed il museo d'Orsay di Parigi.",
+    imagePath: "../../episodes/camera.jpg",
+    audioPath: "../../episodes/camera.mp4",
+    duration: "05:55",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "28",
+    title: "Massacro di Scio",
+    description: "Il \"Massacro di Scio\" è un dipinto a olio su tela realizzato nel 1824 da Eugène Delacroix. L’opera misura 417x354 cm ed è una delle principali del Romanticismo francese.",
+    imagePath: "../../episodes/massacro.jpg",
+    audioPath: "../../episodes/massacro.mp4",
+    duration: "01:46",
+    date: "2025-03-30",
+    featured: false
+  }
 ];
