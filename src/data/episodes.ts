@@ -135,8 +135,8 @@ export const episodes: Episode[] = [
     id: "13",
     title: "San Sebastiano",
     description: "Il San Sebastiano di Mantegna raffigura il santo legato a una colonna, trafitto da frecce ma sereno, simbolo di fede. L’opera unisce realismo anatomico, prospettiva e dettagli scultorei, tipici dello stile rinascimentale di Mantegna.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/sebastiano.jpg",
+    audioPath: "../../episodes/sebastiano.mp4",
     duration: "02:29",
     date: "2025-03-30",
     featured: false
@@ -145,8 +145,8 @@ export const episodes: Episode[] = [
     id: "14",
     title: "La Vergine delle Rocce",
     description: "La Vergine delle Rocce è un celebre dipinto di Leonardo da Vinci, conservato al Museo del Louvre a Parigi. Realizzato tra il 1483 e il 1486, rappresenta la Vergine Maria con il Bambino Gesù, San Giovanni Battista e un angelo, immersi in un paesaggio roccioso e suggestivo. L’opera è caratterizzata dall’uso magistrale della prospettiva atmosferica, della luce e dello sfumato, tecnica tipica di Leonardo, che crea morbide transizioni tra ombre e luci. Il dipinto esiste in due versioni: una al Louvre e un’altra alla National Gallery di Londra, con alcune differenze nella composizione e nei dettagli.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/vergine.jpg",
+    audioPath: "../../episodes/vergine.mp4",
     duration: "04:05",
     date: "2025-03-30",
     featured: false
@@ -155,8 +155,8 @@ export const episodes: Episode[] = [
     id: "15",
     title: "La Buona Ventura",
     description: "La Buona Ventura è un opera del 1563-1564 del periodo chiaro di Caravaggio. Esso è un famoso esempio tra i due periodi della vita dell'artista, mostrando caratteri e dettagli di entrambi.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/buona.jpg",
+    audioPath: "../../episodes/buona.m4a",
     duration: "03:27",
     date: "2025-03-30",
     featured: false
@@ -165,8 +165,8 @@ export const episodes: Episode[] = [
     id: "16",
     title: "La Grande Odalisca",
     description: "Un dipinto neoclassico che ritrae una donna nuda sdraiata con proporzioni allungate e un'eleganza sensuale. L’uso raffinato della luce e dei dettagli esotici enfatizza la bellezza ideale e misteriosa della figura.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/odalisca.jpg",
+    audioPath: "../../episodes/odalisca.mp3",
     duration: "03:11",
     date: "2025-03-30",
     featured: false
@@ -175,8 +175,8 @@ export const episodes: Episode[] = [
     id: "17",
     title: "Angelus",
     description: "Un'opera realista che raffigura due contadini in un campo, immersi in una preghiera silenziosa al tramonto. La scena trasmette un senso di devozione, semplicità e fatica quotidiana, con una luce calda e malinconica.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/angelus.jpg",
+    audioPath: "../../episodes/angelus.mp3",
     duration: "02:25",
     date: "2025-03-30",
     featured: false
@@ -185,11 +185,60 @@ export const episodes: Episode[] = [
     id: "18",
     title: "La Morte di Sardanapalo",
     description: "La Morte di Sardanapalo è un dipinto del 1827 del pittore romantico Eugène Delacroix. Raffigura l'ultimo momento del leggendario re assiro Sardanapalo, che ordina la distruzione di tutti i suoi beni, concubine e animali prima di togliersi la vita per non cadere nelle mani dei nemici. L'opera è caratterizzata da un uso drammatico del colore, una composizione caotica e un senso di violenza e passione tipico del Romanticismo.",
-    imagePath: "../../episodes/mona-lisa.jpg",
-    audioPath: "../../episodes/mona-lisa.mp3",
+    imagePath: "../../episodes/sardanapalo.jpg",
+    audioPath: "../../episodes/sardanapalo.m4a",
     duration: "03:20",
     date: "2025-03-30",
     featured: false
   },
-  
+  {
+    id: "19",
+    title: "Il Museo d’Orsay",
+    description: "Il Museo d’Orsay, ospitato nell’ex stazione ferroviaria Gare d’Orsay, custodisce capolavori dell’arte tra il 1848 e il 1914, tra cui opere di Monet, Van Gogh e Degas. La sua struttura art nouveau, riconvertita dall’architetta Gae Aulenti, unisce storia e arte in un contesto unico",
+    imagePath: "../../episodes/museo.jpg",
+    audioPath: "../../episodes/museo.mp4",
+    duration: "04:24",
+    date: "2025-03-30",
+    featured: true
+  },
+  {
+    id: "20",
+    title: "La stazione di Saint-Lazar",
+    description: "La serie \"La stazione di Saint-Lazare\" comprende dodici dipinti realizzati nel 1877 dal pittore impressionista francese Claude Monet. Queste opere raffigurano l'interno della stazione ferroviaria parigina in diverse condizioni atmosferiche e da vari punti di vista.",
+    imagePath: "../../episodes/stazione.jpg",
+    audioPath: "../../episodes/stazione.m4a",
+    duration: "01:25",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "21",
+    title: "Olympia",
+    description: "\"Olympia\" è l'iconico dipinto di Édouard Manet realizzato nel 1863, che ha suscitato un enorme scalpore al momento della sua esposizione. Quest'opera presenta una donna nuda che sfida l'osservatore con uno sguardo diretto e provocatorio. Manet utilizza una composizione semplice ma efficace, con una palette di colori saturi e pennellate visibili che conferiscono un aspetto moderno all'opera. La figura centrale, una prostituta, non è idealizzata, ma rappresentata in modo realistico, rompendo con le convenzioni artistiche del tempo. In questo episodio, esploreremo la tecnica, la composizione e il significato di \"Olympia\", un'opera che ha rivoluzionato la rappresentazione della figura femminile nell'arte.",
+    imagePath: "../../episodes/olympia.jpg",
+    audioPath: "../../episodes/olympia.mp4",
+    duration: "03:47",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "22",
+    title: "Il Funerale a Ornans",
+    description: "\"Il Funerale a Ornans\", un'opera monumentale di Gustave Courbet realizzata tra il 1849 e il 1850. Questo dipinto, che misura oltre diciotto metri quadrati, rappresenta un funerale nella cittadina natale dell'artista, Ornans. Con una composizione orizzontale e una palette di colori terrosi, Courbet ritrae una scena di vita quotidiana con una trentina di figure comuni, tra cui il sindaco e i contadini, disposte in modo da formare un fregio. La mancanza di idealizzazione e la rappresentazione cruda della realtà hanno suscitato scalpore, segnando una rottura con le tradizioni romantiche.",
+    imagePath: "../../episodes/funerale.jpg",
+    audioPath: "../../episodes/funerale.mp4",
+    duration: "02:38",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "23",
+    title: "Concerto Campestre",
+    description: "Il \"Concerto campestre\", attribuito a Tiziano, è un capolavoro della pittura veneziana del Cinquecento, esposto al Louvre. L’opera raffigura due giovani uomini in abiti rinascimentali intenti a suonare musica, affiancati da due figure femminili nude, simboli di ispirazione e armonia. Ambientato in un paesaggio pastorale, il dipinto incarna la fusione tra arte, natura e musica, esaltando il tonalismo veneziano con un raffinato uso della luce e del colore.",
+    imagePath: "../../episodes/concerto.jpg",
+    audioPath: "../../episodes/concerto.mp4",
+    duration: "02:51",
+    date: "2025-03-30",
+    featured: false
+  },
 ];
