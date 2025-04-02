@@ -310,5 +310,26 @@ export const episodes: Episode[] = [
     duration: "03:06",
     date: "2025-03-30",
     featured: false
-  }
+  },
+  {
+    id: "31",
+    title: "La Morte della Vergine",
+    description: "\"La Morte della Vergine\" di Caravaggio (1601-1606) raffigura Maria senza idealizzazione, con un corpo livido e abbandonato, ispirato – secondo alcune fonti – a una prostituta annegata. La luce esalta il dolore degli apostoli, creando un’atmosfera intensa e realistica.",
+    imagePath: "../../episodes/morte.jpg",
+    audioPath: "../../episodes/morte.mp4",
+    duration: "03;45",
+    date: "2025-03-30",
+    featured: false
+  },
+  {
+    id: "32",
+    title: "L'infanta Margherita in azzurro",
+    description: "L'infanta Margherita in azzurro è un dipinto a olio su tela di 127x107 cm realizzato nel 1659 dal pittore Diego Velázquez. il dipinto ritrae l'infanta Margherita Teresa di Spagna (1651-1673) all'età di otto anni.",
+    imagePath: "../../episodes/infanta.jpg",
+    audioPath: "../../episodes/infanta.mp4",
+    duration: "02:42",
+    date: "2025-03-30",
+    featured: false
+  },
+  
 ];
